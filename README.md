@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*e4HBnH84BpwLCFr78xvfjg.gif)
+
 <h1 align="center">Hi 👋, I'm Bhuvek Kumar</h1>
 <h3 align="center">Passionate Data Analyst | Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
